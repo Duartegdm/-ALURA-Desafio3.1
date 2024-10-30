@@ -1,4 +1,5 @@
 package br.com.alura.dominio;
 
-public class ModeloCarro {
+public class ModeloCarro extends Carro{
+
 }
